@@ -16,5 +16,7 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-subramani&theme=tokyonight" alt="top-langs" width="300" height="300"/> 
 <h4 align="center">Random dev joke for ypu:</h4>
+</p>
+<p align="center">
 <img algin="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
