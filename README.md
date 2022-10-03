@@ -8,7 +8,7 @@
 <a href="https://www.codechef.com/users/adithya_sr12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adithya_sr12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adi12y5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adi12y5" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/adithya.subramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adithya.subramani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adithya111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adithya111" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adithya-subramani-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adithya111" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
