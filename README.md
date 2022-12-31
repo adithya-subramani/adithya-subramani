@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adithya Subramani R</h1>
-<h3 align="center">A passionate computer geek from India</h3>
+<h3 align="center">A computer enthusiast from India</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
